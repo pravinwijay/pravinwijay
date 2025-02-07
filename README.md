@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 🌱Junior Developer, still learning<br>
 
 
